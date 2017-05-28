@@ -1,2 +1,9 @@
-# Capstone-Larsen
-Hiking Buddy
+# Hiking App
+
+### Getting Started
+
+```
+cd hiking-app
+npm i
+npm start
+```
